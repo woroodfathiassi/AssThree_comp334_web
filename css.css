@@ -1,0 +1,25 @@
+form{
+    margin: 20px;
+    background-color:#fff1f1; 
+    font-size: 20px;
+}
+
+body{
+  padding: 2%;
+}
+
+table { width: 100%;
+    border-top: 1px solid rgb(190, 190, 190);
+    border-left: 1px solid rgb(190, 190, 190);
+    border-bottom: 1px solid;
+    border-right: 1px solid;
+   
+  }
+
+  th, td {
+    border-top: 1px solid;
+    border-left: 1px solid;
+    border-bottom: 1px solid rgb(190, 190, 190);
+    border-right: 1px solid rgb(190, 190, 190);
+    text-align: left;
+  }
